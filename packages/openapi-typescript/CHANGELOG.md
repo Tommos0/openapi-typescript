@@ -1,5 +1,15 @@
 # openapi-typescript
 
+## 7.6.2
+
+### Patch Changes
+
+- [#2199](https://github.com/openapi-ts/openapi-typescript/pull/2199) [`fc3f7f8`](https://github.com/openapi-ts/openapi-typescript/commit/fc3f7f8b9cf52f0d4daf31ed4579d588c5b0f3e6) Thanks [@StefanTerdell](https://github.com/StefanTerdell)! - Fix boolean object property schemas
+
+- [#2152](https://github.com/openapi-ts/openapi-typescript/pull/2152) [`47e4b5e`](https://github.com/openapi-ts/openapi-typescript/commit/47e4b5eb86adc59e3de2a4179741d35a26db61c0) Thanks [@insertmike](https://github.com/insertmike)! - - Fixed --make-paths-enum option transforming the paths URL (`:id` instead of `{id}`)
+
+- [#2241](https://github.com/openapi-ts/openapi-typescript/pull/2241) [`ef23947`](https://github.com/openapi-ts/openapi-typescript/commit/ef239479b5f15fc4c98dd15c72974d4cb8722fb0) Thanks [@stanleyk](https://github.com/stanleyk)! - Replacing `any` with `unknown` in the `ReadonlyArray` type declaration.
+
 ## 7.6.1
 
 ### Patch Changes
